@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.1">
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/util/Json.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/util/TextureLoader.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/Main.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/messageView/EventMessagePanelManager.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/messageView/DetailsPanelManager.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/frameView/GraphEditorFrame.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/controller/NodeMouseListener.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/mainPanel/ButtonInitializer.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/mainPanel/GraphPanel.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/PanelObserver.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/model/drawer/GraphPanelPainter.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/model/drawer/EdgeDrawer.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/model/drawer/GraphDrawer.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/model/drawer/NodeDrawer.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/model/army/Team.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/model/army/UnitType.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/model/army/Unit.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/model/army/Army.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/model/army/Faction.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/model/graph/Node.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/model/graph/Graph.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/model/graph/Position.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/model/graph/GraphAgent.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/model/graph/Edge.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/model/event/RandomEvent.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/model/event/Event.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/simulationView/Combat.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/simulationView/Simulation.java">
+</file>
+<file name="/Users/olegbaronov/Desktop/2024_Team_050/3_rts/src/main/java/nl/rug/oop/rts/menuMVC/simulationView/ArmySelection.java">
+</file>
+</checkstyle>
