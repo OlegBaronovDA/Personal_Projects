@@ -1,5 +1,7 @@
 # NSW 2023 The Cost of Renting - University Project
 
+<img src="ex.png" alt="Example" width="400">
+
 ## Overview
 This project aims to analyze rental costs across Local Government Areas (LGAs) in New South Wales (NSW). The primary focus is to determine factors influencing weekly rental prices using a Multiple Linear Model. Additionally, K-Means Clustering is employed to identify groups based on the statistically significant variables from the Multiple Linear Model.
 
