@@ -1,6 +1,6 @@
 # First Project for a Small Local Cafe
 
-![First_TableauExcel_Project](example.png)
+<img src="example.png" alt="Example" width="400">
 
 ## Table of Contents
 
